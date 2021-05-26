@@ -3465,3 +3465,82 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-23.48.56:359][115]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.26-23.48.56:359][115]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
 [2021.05.26-23.48.56:359][115]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
+[2021.05.26-23.49.35:754][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LowPolyBurner4)
+[2021.05.26-23.49.36:757][500]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor2)
+[2021.05.26-23.49.41:838][ 32]Cmd: DELETE
+[2021.05.26-23.49.41:838][ 32]Cmd: ACTOR DELETE
+[2021.05.26-23.49.41:857][ 32]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.26-23.49.41:857][ 32]LogEditorActor: Deleted Actor: Fire_Actor_C
+[2021.05.26-23.49.41:862][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.05.26-23.49.41:865][ 32]LogEditorActor: Deleted 2 Actors (0.027 secs)
+[2021.05.26-23.49.43:897][261]Cmd: TRANSACTION UNDO
+[2021.05.26-23.49.43:897][261]LogEditorTransaction: Undo Eliminar actores
+[2021.05.26-23.50.19:059][108]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.26-23.50.22:746][510]LogEditorViewport: Clicking on Actor (LMB): Fire_Actor_C (Fire_Actor14)
+[2021.05.26-23.50.24:718][716]Cmd: TRANSACTION UNDO
+[2021.05.26-23.50.24:718][716]LogEditorTransaction: Undo Move Actors
+[2021.05.26-23.50.25:498][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LowPolyBurner10)
+[2021.05.26-23.50.26:553][884]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor14)
+[2021.05.26-23.50.40:643][563]Cmd: TRANSACTION UNDO
+[2021.05.26-23.50.40:643][563]LogEditorTransaction: Undo Move Actors
+[2021.05.26-23.50.41:040][571]Cmd: TRANSACTION UNDO
+[2021.05.26-23.50.41:040][571]LogEditorTransaction: Undo Move Actors
+[2021.05.26-23.50.41:490][610]Cmd: TRANSACTION UNDO
+[2021.05.26-23.50.41:490][610]LogEditorTransaction: Undo Move Actors
+[2021.05.26-23.50.41:961][665]Cmd: TRANSACTION UNDO
+[2021.05.26-23.50.41:961][665]LogEditorTransaction: Undo Move Actors
+[2021.05.26-23.50.42:668][746]Cmd: TRANSACTION UNDO
+[2021.05.26-23.50.42:668][746]LogEditorTransaction: Undo Pinchar en los actores
+[2021.05.26-23.50.44:364][904]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor14)
+[2021.05.26-23.50.45:274][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LowPolyBurner9)
+[2021.05.26-23.50.45:862][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor13)
+[2021.05.26-23.50.53:939][907]LogEditorViewport: Clicking on Actor (LMB): Fire_Actor_C (Fire_Actor14)
+[2021.05.26-23.50.56:502][210]Cmd: TRANSACTION UNDO
+[2021.05.26-23.50.56:502][210]LogEditorTransaction: Undo Move Actors
+[2021.05.26-23.50.57:259][253]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LowPolyBurner10)
+[2021.05.26-23.51.12:321][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LowPolyBurner9)
+[2021.05.26-23.51.12:950][ 35]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor13)
+[2021.05.26-23.51.25:905][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LowPolyBurner10)
+[2021.05.26-23.51.26:400][531]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor14)
+[2021.05.26-23.51.57:931][ 18]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.26-23.51.59:032][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.26-23.51.59:057][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.05.26-23.51.59:254][132]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout4E6D97E74E03008B3E5BA48E045099A8.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap'
+[2021.05.26-23.51.59:265][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout_BuiltData" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset" SILENT=true
+[2021.05.26-23.51.59:508][132]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout_BuiltData4A1E978247A5A197D9CCF08441010483.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset'
+[2021.05.26-23.51.59:522][132]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-23.51.59:522][132]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
+[2021.05.26-23.51.59:522][132]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
+[2021.05.26-23.52.12:471][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LowPolyBurner10)
+[2021.05.26-23.52.13:063][146]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor14)
+[2021.05.26-23.52.13:880][239]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LowPolyBurner9)
+[2021.05.26-23.52.14:520][313]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor13)
+[2021.05.26-23.52.47:085][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LowPolyBurner12)
+[2021.05.26-23.52.49:631][225]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.26-23.52.51:971][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.26-23.52.51:983][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.26-23.52.52:179][457]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout24C322BF467371803EE9078C471CE0D9.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap'
+[2021.05.26-23.52.52:185][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout_BuiltData" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset" SILENT=true
+[2021.05.26-23.52.52:430][457]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout_BuiltData051A933A4BF01980DCF68C881C72B521.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset'
+[2021.05.26-23.52.52:445][457]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-23.52.52:445][457]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
+[2021.05.26-23.52.52:445][457]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
+[2021.05.26-23.52.55:041][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LowPolyBurner11)
+[2021.05.26-23.52.57:511][  4]Cmd: TRANSACTION UNDO
+[2021.05.26-23.52.57:511][  4]LogEditorTransaction: Undo Move Actors
+[2021.05.26-23.52.57:954][ 17]Cmd: TRANSACTION UNDO
+[2021.05.26-23.52.57:954][ 17]LogEditorTransaction: Undo Move Actors
+[2021.05.26-23.52.58:669][ 95]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor15)
+[2021.05.26-23.53.00:951][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LowPolyBurner12)
+[2021.05.26-23.53.01:475][422]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor16)
+[2021.05.26-23.53.06:157][976]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.26-23.53.06:758][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LowPolyBurner11)
+[2021.05.26-23.53.07:271][101]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_Actor_C (Fire_Actor15)
+[2021.05.26-23.53.13:021][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.26-23.53.13:025][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.26-23.53.13:223][767]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout08CF2A0D4F8ABA47C829ABAA320F3FE5.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap'
+[2021.05.26-23.53.13:229][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout_BuiltData" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset" SILENT=true
+[2021.05.26-23.53.13:469][767]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout_BuiltData3272AB894D501169290C7CA4CBBE1EE6.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset'
+[2021.05.26-23.53.13:483][767]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-23.53.13:483][767]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
+[2021.05.26-23.53.13:483][767]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
