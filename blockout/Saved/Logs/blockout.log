@@ -1829,3 +1829,127 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-20.22.47:289][732]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.26-20.22.47:289][732]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
 [2021.05.26-20.22.47:289][732]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
+[2021.05.26-20.24.19:779][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ladder)
+[2021.05.26-20.25.10:792][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ladder)
+[2021.05.26-20.25.53:313][948]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.26-20.28.17:788][580]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-20.28.17:794][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-20.28.17:795][580]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 0:28:17)
+[2021.05.26-20.28.17:795][580]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-20.28.17:853][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057647s)
+[2021.05.26-20.28.17:854][580]LogAIModule: Creating AISystem for world Blockout
+[2021.05.26-20.28.17:854][580]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2021.05.26-20.28.17:854][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.059336s)
+[2021.05.26-20.28.17:868][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.05.26-20.28.17:877][580]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.26-20.28.17:877][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-20.28.17:877][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-20.28.17:877][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-20.28.17:877][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-20.28.17:877][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-20.28.17:877][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-20.28.17:878][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-20.28.17:878][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-20.28.17:878][580]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-20.28.17:878][580]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-20.28.17:888][580]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-20.28.17:888][580]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-20.28.17:904][580]LogAudioMixer: Display: Using Audio Device Altavoces (2- USB PnP Sound Device)
+[2021.05.26-20.28.17:904][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-20.28.17:904][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-20.28.17:904][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-20.28.17:905][580]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-20.28.17:905][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-20.28.17:905][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-20.28.17:930][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-20.28.17:930][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-20.28.17:930][580]LogInit: FAudioDevice initialized.
+[2021.05.26-20.28.17:930][580]LogAudio: Display: Audio Device (ID: 5) registered with world 'Blockout'.
+[2021.05.26-20.28.17:942][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-20.28.17:955][580]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 60) at 2021.05.26-22.28.17
+[2021.05.26-20.28.17:955][580]LogWorld: Bringing up level for play took: 0.011704
+[2021.05.26-20.28.17:955][580]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.05.26-20.28.17:960][580]PIE: El servidor ha iniciado la sesión
+[2021.05.26-20.28.17:961][580]PIE: Play in editor total start time 0,168 seconds.
+[2021.05.26-20.29.58:070][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-20.29.58:070][565]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-20.29.58:071][565]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.29.58:073][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.29.58:084][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-20.29.58:098][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.29.58:105][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-20.29.58:106][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-20.29.58:107][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-20.29.58:134][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-20.29.58:140][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.05.26-20.29.58:175][566]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.05.26-20.34.27:297][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.26-20.34.27:816][560]LogSavePackage: Moving '../../../../../../Github/3DenviromentProjectCITM/blockout/Saved/Blockout_Auto4B290A2A745A2F2499AE05D9CC83944BC.tmp' to '../../../../../../Github/3DenviromentProjectCITM/blockout/Saved/Autosaves/Game/scenes/Blockout_Auto4.umap'
+[2021.05.26-20.34.27:819][560]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/scenes/Blockout' took 0.528
+[2021.05.26-20.34.27:819][560]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.528
+[2021.05.26-21.38.25:797][888]LogAnalytics: Warning: EventCache either took too long to flush (1.463 ms) or had a very large payload (0.435 KB, 1 events). Listing events in the payload for investigation:
+[2021.05.26-21.38.25:797][888]LogAnalytics: Warning:     Editor.Usage.Heartbeat,432
+[2021.05.26-21.44.52:934][ 43]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.26-21.45.38:788][180]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.26-21.48.41:289][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.05.26-21.48.41:797][555]LogSavePackage: Moving '../../../../../../Github/3DenviromentProjectCITM/blockout/Saved/Blockout_Auto5F7FD57594BE39EC0E4A4C8911E730E46.tmp' to '../../../../../../Github/3DenviromentProjectCITM/blockout/Saved/Autosaves/Game/scenes/Blockout_Auto5.umap'
+[2021.05.26-21.48.41:819][555]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/scenes/Blockout' took 0.538
+[2021.05.26-21.48.41:819][555]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.538
+[2021.05.26-21.49.16:844][445]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2021.05.26-21.49.20:965][681]Cmd: TRANSACTION UNDO
+[2021.05.26-21.49.20:965][681]LogEditorTransaction: Undo Move Actors
+[2021.05.26-21.49.24:380][873]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.26-21.49.24:781][894]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2021.05.26-21.49.26:225][977]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2021.05.26-21.49.27:080][ 25]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2021.05.26-21.52.47:226][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-21.52.47:233][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-21.52.47:233][ 17]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 1:52:47)
+[2021.05.26-21.52.47:233][ 17]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-21.52.47:292][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058101s)
+[2021.05.26-21.52.47:293][ 17]LogAIModule: Creating AISystem for world Blockout
+[2021.05.26-21.52.47:293][ 17]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2021.05.26-21.52.47:293][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.059734s)
+[2021.05.26-21.52.47:300][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.26-21.52.47:305][ 17]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.26-21.52.47:305][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-21.52.47:305][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-21.52.47:305][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-21.52.47:305][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-21.52.47:305][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-21.52.47:305][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-21.52.47:305][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-21.52.47:305][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-21.52.47:306][ 17]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-21.52.47:306][ 17]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-21.52.47:314][ 17]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-21.52.47:314][ 17]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-21.52.47:330][ 17]LogAudioMixer: Display: Using Audio Device Altavoces (2- USB PnP Sound Device)
+[2021.05.26-21.52.47:330][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-21.52.47:330][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-21.52.47:330][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-21.52.47:332][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-21.52.47:332][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-21.52.47:332][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-21.52.47:349][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-21.52.47:349][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-21.52.47:349][ 17]LogInit: FAudioDevice initialized.
+[2021.05.26-21.52.47:349][ 17]LogAudio: Display: Audio Device (ID: 6) registered with world 'Blockout'.
+[2021.05.26-21.52.47:361][ 17]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-21.52.47:373][ 17]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 60) at 2021.05.26-23.52.47
+[2021.05.26-21.52.47:374][ 17]LogWorld: Bringing up level for play took: 0.011981
+[2021.05.26-21.52.47:374][ 17]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.05.26-21.52.47:379][ 17]PIE: El servidor ha iniciado la sesión
+[2021.05.26-21.52.47:380][ 17]PIE: Play in editor total start time 0,149 seconds.
+[2021.05.26-21.54.15:134][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-21.54.15:134][268]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-21.54.15:134][268]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-21.54.15:135][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-21.54.15:146][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-21.54.15:155][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-21.54.15:162][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-21.54.15:163][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-21.54.15:164][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-21.54.15:186][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-21.54.15:189][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.05.26-21.54.15:221][269]LogPlayLevel: Display: Destroying online subsystem :Context_10
