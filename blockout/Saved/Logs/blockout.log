@@ -848,3 +848,93 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-21.34.00:433][545]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
 [2021.05.26-21.34.00:433][545]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
 [2021.05.26-21.34.03:487][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.26-21.34.24:292][713]Cmd: TRANSACTION UNDO
+[2021.05.26-21.34.24:293][713]LogEditorTransaction: Undo Crear actores
+[2021.05.26-21.34.24:311][713]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/scenes/Blockout.Blockout:PersistentLevel.ModelComponent_48' invalid (32161 verts, 0 indices).
+[2021.05.26-21.34.24:311][713]LogPhysics: Warning: Attempt to build physics data for /Game/scenes/Blockout.Blockout:PersistentLevel.ModelComponent_48.BodySetup_0 when we are unable to.
+[2021.05.26-21.34.30:348][297]Cmd: TRANSACTION UNDO
+[2021.05.26-21.34.30:348][297]LogEditorTransaction: Undo Crear actores
+[2021.05.26-21.34.30:366][297]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/scenes/Blockout.Blockout:PersistentLevel.ModelComponent_47' invalid (32161 verts, 0 indices).
+[2021.05.26-21.34.30:366][297]LogPhysics: Warning: Attempt to build physics data for /Game/scenes/Blockout.Blockout:PersistentLevel.ModelComponent_47.BodySetup_0 when we are unable to.
+[2021.05.26-21.34.37:843][995]Cmd: TRANSACTION UNDO
+[2021.05.26-21.34.37:843][995]LogEditorTransaction: Undo Crear actores
+[2021.05.26-21.34.37:879][995]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/scenes/Blockout.Blockout:PersistentLevel.ModelComponent_53' invalid (32161 verts, 0 indices).
+[2021.05.26-21.34.37:879][995]LogPhysics: Warning: Attempt to build physics data for /Game/scenes/Blockout.Blockout:PersistentLevel.ModelComponent_53.BodySetup_0 when we are unable to.
+[2021.05.26-21.34.40:153][186]Cmd: TRANSACTION UNDO
+[2021.05.26-21.34.40:153][186]LogEditorTransaction: Undo Crear actores
+[2021.05.26-21.34.46:572][769]LogMaterial: Display: Missing cached shader map for material DefaultMaterial_Base_Color_Mat, compiling. 
+[2021.05.26-21.34.46:587][769]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.05.26-21.34.46:587][769]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.05.26-21.34.46:587][769]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.05.26-21.34.46:587][769]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.05.26-21.34.46:587][769]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.05.26-21.34.46:587][769]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.05.26-21.35.26:949][848]LogMaterial: Display: Missing cached shader map for material DefaultMaterial_Height_Mat, compiling. 
+[2021.05.26-21.35.26:962][848]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.05.26-21.35.26:962][848]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.05.26-21.35.26:962][848]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.05.26-21.35.26:962][848]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.05.26-21.35.26:962][848]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.05.26-21.35.26:962][848]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.05.26-21.36.38:421][198]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-21.36.38:425][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-21.36.38:426][198]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 1:36:38)
+[2021.05.26-21.36.38:427][198]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.26-21.36.38:428][198]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.26-21.36.38:428][198]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-21.36.38:558][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130020s)
+[2021.05.26-21.36.38:559][198]LogAIModule: Creating AISystem for world Blockout
+[2021.05.26-21.36.38:559][198]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2021.05.26-21.36.38:559][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.131628s)
+[2021.05.26-21.36.38:563][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.26-21.36.38:566][198]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.26-21.36.38:566][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-21.36.38:566][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-21.36.38:566][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-21.36.38:566][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-21.36.38:566][198]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-21.36.38:566][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-21.36.38:566][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-21.36.38:566][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-21.36.38:566][198]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-21.36.38:566][198]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-21.36.38:569][198]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-21.36.38:569][198]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-21.36.38:578][198]LogAudioMixer: Display: Using Audio Device Altavoces (5- Tronsmart Glary)
+[2021.05.26-21.36.38:578][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-21.36.38:578][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-21.36.38:578][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-21.36.38:579][198]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-21.36.38:579][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-21.36.38:579][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-21.36.38:589][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-21.36.38:589][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-21.36.38:589][198]LogInit: FAudioDevice initialized.
+[2021.05.26-21.36.38:589][198]LogAudio: Display: Audio Device (ID: 2) registered with world 'Blockout'.
+[2021.05.26-21.36.38:597][198]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-21.36.38:605][198]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2021.05.26-23.36.38
+[2021.05.26-21.36.38:606][198]LogWorld: Bringing up level for play took: 0.007509
+[2021.05.26-21.36.38:606][198]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.05.26-21.36.38:609][198]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.26-21.36.38:610][198]PIE: El servidor ha iniciado la sesión
+[2021.05.26-21.36.38:612][198]PIE: Play in editor total start time 0,187 seconds.
+[2021.05.26-21.37.21:921][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-21.37.21:921][204]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-21.37.21:921][204]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-21.37.21:923][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-21.37.21:930][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-21.37.21:943][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-21.37.21:947][204]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-21.37.21:947][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-21.37.21:948][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-21.37.21:961][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-21.37.21:969][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.05.26-21.37.21:994][205]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.05.26-21.38.02:030][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.26-21.38.02:034][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.26-21.38.02:314][430]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/BlockoutA0C91C3748BF78CD907944B05E348B13.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap'
+[2021.05.26-21.38.02:324][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout_BuiltData" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset" SILENT=true
+[2021.05.26-21.38.02:340][430]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout_BuiltData56F826AF494DADA3624C949210A4135C.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset'
+[2021.05.26-21.38.02:348][430]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-21.38.02:348][430]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
+[2021.05.26-21.38.02:348][430]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
