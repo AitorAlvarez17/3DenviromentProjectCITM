@@ -2672,3 +2672,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-16.05.36:252][767]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Terreno_Inst.M_Terreno_Inst
 [2021.05.26-16.05.36:252][767]LogContentValidation: Display: Validating Texture2D /Game/Materials/GrassTex/Grass_Roughness.Grass_Roughness
 [2021.05.26-16.05.36:252][767]LogContentValidation: Display: Validating Texture2D /Game/Materials/GrassTex/Grass_Normal.Grass_Normal
+[2021.05.26-16.10.34:425][793]LogSlate: Window 'Mensaje' being destroyed
+[2021.05.26-16.10.34:428][793]Message dialog closed, result: Yes, title: Mensaje, text: ¿Quiere aplicar los cambios a este material?
+/Game/Materials/M_Terreno.M_Terreno
+(¡No se perderán todos lo cambios!)
+[2021.05.26-16.10.34:811][793]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.05.26-16.10.34:831][793]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.05.26-16.10.34:831][793]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.05.26-16.10.34:831][793]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.05.26-16.10.34:831][793]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.05.26-16.10.34:831][793]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.05.26-16.10.34:831][793]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.05.26-16.10.34:831][793]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.05.26-16.10.34:831][793]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.05.26-16.10.34:862][793]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2021.05.26-16.10.34:883][793]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2021.05.26-16.10.34:908][793]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2021.05.26-16.10.34:913][793]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2021.05.26-16.10.34:929][793]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2021.05.26-16.10.35:019][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.26-16.10.35:031][793]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.26-16.10.35:598][793]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 83
+[2021.05.26-16.10.35:598][793]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 82
+[2021.05.26-16.10.35:598][793]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 81
+[2021.05.26-16.10.35:598][793]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 80
+[2021.05.26-16.10.35:598][793]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 70
+[2021.05.26-16.10.35:598][793]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 61
+[2021.05.26-16.10.35:598][793]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 53
+[2021.05.26-16.10.35:598][793]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 45
+[2021.05.26-16.10.35:865][793]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 37
+[2021.05.26-16.10.35:865][793]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.05.26-16.10.35:865][793]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.05.26-16.10.35:884][793]TextureStreamingBuild: Display: Compiling optional shaders took 0.857 seconds.
+[2021.05.26-16.10.35:892][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.05.26-16.10.35:937][793]LogSlate: Window 'M_Terreno' being destroyed
+[2021.05.26-16.10.35:939][793]LogSlate: Window 'M_Terreno' being destroyed
+[2021.05.26-16.10.35:954][793]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-16.10.35:954][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-16.10.35:993][793]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-16.10.35:993][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-16.10.37:488][842]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.05.26-16.10.38:029][879]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.05.26-16.10.38:044][880]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.05.26-16.10.38:279][893]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.05.26-16.10.38:640][915]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.05.26-16.10.38:746][922]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.05.26-16.10.38:959][935]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.05.26-16.10.39:088][939]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.05.26-16.10.39:117][940]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.05.26-16.10.39:174][943]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.05.26-16.10.39:202][945]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.05.26-16.10.39:202][945]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.05.26-16.10.39:318][949]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
