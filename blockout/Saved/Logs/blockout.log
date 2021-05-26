@@ -1953,3 +1953,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-21.54.15:186][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.26-21.54.15:189][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2021.05.26-21.54.15:221][269]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.05.26-22.00.03:262][944]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.26-22.00.09:979][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.26-22.00.10:201][963]LogSavePackage: Moving '../../../../../../Github/3DenviromentProjectCITM/blockout/Saved/Blockout_Auto620A6699C4ABC2D3E80DDFC934D623723.tmp' to '../../../../../../Github/3DenviromentProjectCITM/blockout/Saved/Autosaves/Game/scenes/Blockout_Auto6.umap'
+[2021.05.26-22.00.10:209][963]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/scenes/Blockout' took 0.236
+[2021.05.26-22.00.10:210][963]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.236
