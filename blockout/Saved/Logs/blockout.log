@@ -3544,3 +3544,1192 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-23.53.13:483][767]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.26-23.53.13:483][767]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
 [2021.05.26-23.53.13:483][767]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
+[2021.05.26-23.55.16:261][250]LogDirectoryWatcher: A directory notification failed for 'M:/Dev/3DenviromentProjectCITM/blockout/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.05.26-23.55.16:261][250]LogDirectoryWatcher: A directory notification failed for 'M:/Dev/3DenviromentProjectCITM/blockout/Content/Developers/telmo/Collections/' because it could not be accessed. Aborting watch request...
+[2021.05.26-23.55.16:261][250]LogDirectoryWatcher: A directory notification failed for 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.05.26-23.55.28:121][313]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2021.05.26-23.55.28:126][313]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2021.05.26-23.55.28:130][313]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.05.26-23.55.28:130][313]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.05.26-23.55.28:130][313]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.05.26-23.55.28:130][313]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.05.26-23.55.28:130][313]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.05.26-23.55.28:130][313]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.05.26-23.55.28:137][313]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.05.26-23.55.28:186][313]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.05.26-23.55.28:186][313]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.05.26-23.55.28:831][345]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.05.26-23.55.28:883][349]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.05.26-23.55.29:009][360]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.05.26-23.55.29:045][363]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.05.26-23.55.34:263][684]LogTexture: Display: Building textures: grass_opacity (AutoDXT, 4096X4096)
+[2021.05.26-23.55.34:263][684]LogTexture: Display: Building textures: grass_spec (AutoDXT, 4096X4096)
+[2021.05.26-23.55.34:263][684]LogTexture: Display: Building textures: grass_albedo (AutoDXT, 4096X4096)
+[2021.05.26-23.55.34:263][684]LogTexture: Display: Building textures: grass_normal (BC5, 4096X4096)
+[2021.05.26-23.55.34:263][684]LogMaterial: Display: Missing cached shader map for material MA_OpenWorldFoliage, compiling. 
+[2021.05.26-23.55.34:324][684]LogMaterial: Display: Missing cached shader map for material MA_OpenWorldFoliage, compiling. 
+[2021.05.26-23.55.34:359][684]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 66
+[2021.05.26-23.55.34:359][684]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2021.05.26-23.55.34:359][684]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.05.26-23.55.34:359][684]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2021.05.26-23.55.34:359][684]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2021.05.26-23.55.34:359][684]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.05.26-23.55.34:359][684]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.05.26-23.55.34:359][684]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.05.26-23.55.34:359][684]LogStaticMesh: Generando la malla estática autumn...
+[2021.05.26-23.55.34:412][684]LogStaticMesh: Built static mesh [0.05s] /Game/PN_OpenWorldFoliage/ColorExamples/autumn.autumn
+[2021.05.26-23.55.34:450][684]LogActorFactory: Actor Factory created autumn
+[2021.05.26-23.55.35:599][748]LogActorFactory: Actor Factory created autumn
+[2021.05.26-23.55.36:900][797]LogActorFactory: Actor Factory created darkGreen
+[2021.05.26-23.55.38:321][868]LogActorFactory: Actor Factory created freshGreen
+[2021.05.26-23.55.38:861][905]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 66
+[2021.05.26-23.55.39:106][913]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 57
+[2021.05.26-23.55.39:231][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 49
+[2021.05.26-23.55.39:920][945]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 42
+[2021.05.26-23.55.40:098][952]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2021.05.26-23.55.40:821][977]LogActorFactory: Actor Factory created weathered
+[2021.05.26-23.55.40:867][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 31
+[2021.05.26-23.55.42:294][ 79]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2021.05.26-23.55.42:514][ 90]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2021.05.26-23.55.43:634][144]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.05.26-23.55.43:732][147]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.05.26-23.55.44:235][170]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.05.26-23.55.44:492][182]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.05.26-23.55.44:668][191]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.05.26-23.55.45:120][210]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.05.26-23.55.45:172][213]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.05.26-23.55.45:388][223]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.05.26-23.55.45:579][232]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.05.26-23.55.45:686][237]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.05.26-23.55.46:065][255]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.05.26-23.55.46:088][256]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.05.26-23.55.54:094][925]Cmd: TRANSACTION UNDO
+[2021.05.26-23.55.54:094][925]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.56.01:143][640]Cmd: TRANSACTION UNDO
+[2021.05.26-23.56.01:143][640]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.56.09:478][592]Cmd: TRANSACTION UNDO
+[2021.05.26-23.56.09:478][592]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.56.16:168][319]Cmd: TRANSACTION UNDO
+[2021.05.26-23.56.16:168][319]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.56.21:096][860]Cmd: TRANSACTION UNDO
+[2021.05.26-23.56.21:096][860]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.56.27:406][545]Cmd: TRANSACTION UNDO
+[2021.05.26-23.56.27:406][545]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.56.53:158][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.26-23.56.53:162][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.05.26-23.56.53:368][274]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout11574A7D413F03BAAE78E59624CAB3FF.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap'
+[2021.05.26-23.56.53:379][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout_BuiltData" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset" SILENT=true
+[2021.05.26-23.56.53:628][274]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout_BuiltData0F8513384289C030D7091BAB87D3CB32.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset'
+[2021.05.26-23.56.53:642][274]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-23.56.53:643][274]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
+[2021.05.26-23.56.53:643][274]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
+[2021.05.26-23.56.56:553][591]Cmd: DELETE
+[2021.05.26-23.56.56:553][591]Cmd: ACTOR DELETE
+[2021.05.26-23.56.56:575][591]LogEditorActor: Deleted Actor: Brush
+[2021.05.26-23.56.56:579][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.05.26-23.56.56:605][591]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.05.26-23.56.57:882][728]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-23.56.57:886][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-23.56.57:886][728]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 3:56:57)
+[2021.05.26-23.56.57:919][728]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-23.56.57:971][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051001s)
+[2021.05.26-23.56.57:972][728]LogAIModule: Creating AISystem for world Blockout
+[2021.05.26-23.56.57:972][728]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2021.05.26-23.56.57:972][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.052213s)
+[2021.05.26-23.56.57:976][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.26-23.56.57:976][728]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.05.26-23.56.57:977][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-23.56.57:977][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-23.56.57:977][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-23.56.57:977][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-23.56.57:977][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-23.56.57:977][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-23.56.57:977][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-23.56.57:977][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-23.56.57:977][728]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-23.56.57:977][728]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-23.56.57:980][728]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-23.56.57:980][728]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-23.56.57:989][728]LogAudioMixer: Display: Using Audio Device Altavoces (5- Tronsmart Glary)
+[2021.05.26-23.56.57:990][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-23.56.57:990][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-23.56.57:990][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-23.56.57:990][728]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-23.56.57:990][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-23.56.57:990][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-23.56.58:001][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-23.56.58:001][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-23.56.58:001][728]LogInit: FAudioDevice initialized.
+[2021.05.26-23.56.58:001][728]LogAudio: Display: Audio Device (ID: 14) registered with world 'Blockout'.
+[2021.05.26-23.56.58:012][728]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-23.56.58:020][728]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2021.05.27-01.56.58
+[2021.05.26-23.56.58:020][728]LogWorld: Bringing up level for play took: 0.007731
+[2021.05.26-23.56.58:021][728]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.26-23.56.58:024][728]PIE: El servidor ha iniciado la sesión
+[2021.05.26-23.56.58:025][728]PIE: Play in editor total start time 0,139 seconds.
+[2021.05.26-23.57.03:961][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-23.57.03:961][387]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-23.57.03:961][387]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-23.57.03:963][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-23.57.03:970][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-23.57.03:973][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-23.57.03:977][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-23.57.03:978][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-23.57.03:979][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-23.57.03:995][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.26-23.57.04:045][389]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.26-23.57.14:028][463]LogTexture: Display: Building textures: ground_height (AutoDXT, 4096X4096)
+[2021.05.26-23.57.14:028][463]LogTexture: Display: Building textures: ground_ao (AutoDXT, 4096X4096)
+[2021.05.26-23.57.14:028][463]LogTexture: Display: Building textures: ground_albedo (AutoDXT, 4096X4096)
+[2021.05.26-23.57.14:028][463]LogTexture: Display: Building textures: ground_normal (BC5, 4096X4096)
+[2021.05.26-23.57.14:028][463]LogMaterial: Display: Missing cached shader map for material MA_OpenWorldGround, compiling. 
+[2021.05.26-23.57.14:046][463]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.05.26-23.57.14:046][463]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.05.26-23.57.14:046][463]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.05.26-23.57.14:046][463]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.05.26-23.57.14:046][463]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.05.26-23.57.14:046][463]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.05.26-23.57.14:099][463]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.05.26-23.57.15:967][598]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.26-23.57.19:056][830]LogMaterial: Display: Missing cached shader map for material MA_OpenWorldGround, compiling. 
+[2021.05.26-23.57.19:072][830]LogMaterial: Display: Material /Game/PN_OpenWorldFoliage/Materials/MA_OpenWorldGround.MA_OpenWorldGround needed to have new flag set bUsedWithStaticLighting !
+[2021.05.26-23.57.19:073][830]LogMaterial: Display: Missing cached shader map for material MA_OpenWorldGround, compiling. 
+[2021.05.26-23.57.19:083][830]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2021.05.26-23.57.19:083][830]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.05.26-23.57.19:083][830]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.05.26-23.57.19:083][830]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.05.26-23.57.19:083][830]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.05.26-23.57.19:083][830]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.05.26-23.57.19:083][830]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.05.26-23.57.19:084][830]LogMaterial: Display: Missing cached shader map for material MA_OpenWorldGround, compiling. 
+[2021.05.26-23.57.19:127][830]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.05.26-23.57.20:070][898]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 64
+[2021.05.26-23.57.20:611][913]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2021.05.26-23.57.20:661][914]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.05.26-23.57.20:748][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2021.05.26-23.57.20:771][921]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2021.05.26-23.57.20:783][922]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.05.26-23.57.20:880][928]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.05.26-23.57.21:105][943]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.05.26-23.57.22:340][ 34]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.05.26-23.57.22:340][ 34]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.05.26-23.57.22:783][ 69]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.05.26-23.57.22:828][ 72]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.05.26-23.57.23:386][115]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.05.26-23.57.23:557][128]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.05.26-23.57.23:571][129]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.05.26-23.57.23:611][132]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.05.26-23.57.23:662][136]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.05.26-23.57.23:895][153]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.05.26-23.57.23:933][156]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.05.26-23.57.23:959][158]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.05.26-23.57.29:955][667]Cmd: TRANSACTION UNDO
+[2021.05.26-23.57.29:955][667]LogEditorTransaction: Undo Editar Landscape Material
+[2021.05.26-23.57.30:260][671]Cmd: TRANSACTION UNDO
+[2021.05.26-23.57.30:260][671]LogEditorTransaction: Undo Editar Landscape Material
+[2021.05.26-23.57.50:665][435]LogStaticMesh: Generando la malla estática openWorld_grass_01_01_04...
+[2021.05.26-23.57.50:706][435]LogStaticMesh: Built static mesh [0.04s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_01_04.openWorld_grass_01_01_04
+[2021.05.26-23.57.50:746][435]LogActorFactory: Actor Factory created openWorld_grass_01_01_04
+[2021.05.26-23.57.54:171][711]Cmd: TRANSACTION UNDO
+[2021.05.26-23.57.54:171][711]LogEditorTransaction: Undo Drag-drop Foliage
+[2021.05.26-23.57.54:378][716]Cmd: TRANSACTION UNDO
+[2021.05.26-23.57.54:378][716]LogEditorTransaction: Undo Pinchar en los actores (menú contextual)
+[2021.05.26-23.57.54:595][722]Cmd: TRANSACTION UNDO
+[2021.05.26-23.57.54:595][722]LogEditorTransaction: Undo Eliminar actores
+[2021.05.26-23.57.54:775][729]Cmd: TRANSACTION UNDO
+[2021.05.26-23.57.54:775][729]LogEditorTransaction: Undo Select Brush Surface
+[2021.05.26-23.58.17:718][971]LogStaticMesh: Generando la malla estática openWorld_grass_01_01_03...
+[2021.05.26-23.58.17:758][971]LogStaticMesh: Built static mesh [0.04s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_01_03.openWorld_grass_01_01_03
+[2021.05.26-23.58.17:817][974]LogActorFactory: Actor Factory created openWorld_grass_01_01_03
+[2021.05.26-23.58.36:003][700]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-23.58.36:008][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-23.58.36:008][700]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 3:58:36)
+[2021.05.26-23.58.36:050][700]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-23.58.36:109][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058800s)
+[2021.05.26-23.58.36:110][700]LogAIModule: Creating AISystem for world Blockout
+[2021.05.26-23.58.36:110][700]LogPlayLevel: PIE: World Init took: (0.001657s)
+[2021.05.26-23.58.36:110][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.060679s)
+[2021.05.26-23.58.36:118][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.26-23.58.36:123][700]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.05.26-23.58.36:123][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-23.58.36:123][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-23.58.36:123][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-23.58.36:123][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-23.58.36:123][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-23.58.36:123][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-23.58.36:123][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-23.58.36:123][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-23.58.36:123][700]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-23.58.36:123][700]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-23.58.36:126][700]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-23.58.36:126][700]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-23.58.36:135][700]LogAudioMixer: Display: Using Audio Device Altavoces (5- Tronsmart Glary)
+[2021.05.26-23.58.36:135][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-23.58.36:135][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-23.58.36:135][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-23.58.36:136][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-23.58.36:136][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-23.58.36:136][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-23.58.36:147][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-23.58.36:147][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-23.58.36:147][700]LogInit: FAudioDevice initialized.
+[2021.05.26-23.58.36:147][700]LogAudio: Display: Audio Device (ID: 15) registered with world 'Blockout'.
+[2021.05.26-23.58.36:153][700]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-23.58.36:161][700]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2021.05.27-01.58.36
+[2021.05.26-23.58.36:161][700]LogWorld: Bringing up level for play took: 0.007720
+[2021.05.26-23.58.36:162][700]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.05.26-23.58.36:165][700]PIE: El servidor ha iniciado la sesión
+[2021.05.26-23.58.36:166][700]PIE: Play in editor total start time 0,159 seconds.
+[2021.05.26-23.58.41:202][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-23.58.41:202][160]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-23.58.41:202][160]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-23.58.41:203][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-23.58.41:213][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-23.58.41:216][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-23.58.41:221][160]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-23.58.41:221][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-23.58.41:222][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-23.58.41:235][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-23.58.41:238][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.05.26-23.58.41:300][162]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.05.26-23.58.49:909][722]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-23.58.49:915][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-23.58.49:915][722]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 3:58:49)
+[2021.05.26-23.58.49:915][722]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-23.58.49:975][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059898s)
+[2021.05.26-23.58.49:976][722]LogAIModule: Creating AISystem for world Blockout
+[2021.05.26-23.58.49:976][722]LogPlayLevel: PIE: World Init took: (0.001501s)
+[2021.05.26-23.58.49:976][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.061542s)
+[2021.05.26-23.58.49:980][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.05.26-23.58.49:982][722]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.05.26-23.58.49:982][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-23.58.49:982][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-23.58.49:982][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-23.58.49:982][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-23.58.49:982][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-23.58.49:982][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-23.58.49:982][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-23.58.49:982][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-23.58.49:982][722]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-23.58.49:982][722]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-23.58.49:985][722]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-23.58.49:985][722]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-23.58.49:993][722]LogAudioMixer: Display: Using Audio Device Altavoces (5- Tronsmart Glary)
+[2021.05.26-23.58.49:993][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-23.58.49:994][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-23.58.49:994][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-23.58.49:994][722]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-23.58.49:994][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-23.58.49:994][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-23.58.50:005][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-23.58.50:005][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-23.58.50:005][722]LogInit: FAudioDevice initialized.
+[2021.05.26-23.58.50:005][722]LogAudio: Display: Audio Device (ID: 16) registered with world 'Blockout'.
+[2021.05.26-23.58.50:011][722]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-23.58.50:020][722]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2021.05.27-01.58.50
+[2021.05.26-23.58.50:020][722]LogWorld: Bringing up level for play took: 0.008805
+[2021.05.26-23.58.50:020][722]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.26-23.58.50:024][722]PIE: El servidor ha iniciado la sesión
+[2021.05.26-23.58.50:025][722]PIE: Play in editor total start time 0,111 seconds.
+[2021.05.26-23.59.02:574][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-23.59.02:574][607]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.26-23.59.02:574][607]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-23.59.02:576][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-23.59.02:582][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-23.59.02:585][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-23.59.02:589][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-23.59.02:589][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-23.59.02:590][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-23.59.02:620][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.26-23.59.02:638][608]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.26-23.59.09:214][ 83]Cmd: TRANSACTION UNDO
+[2021.05.26-23.59.09:214][ 83]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.59.09:504][ 88]Cmd: TRANSACTION UNDO
+[2021.05.26-23.59.09:504][ 88]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.59.09:737][ 92]Cmd: TRANSACTION UNDO
+[2021.05.26-23.59.09:737][ 92]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.59.09:937][110]Cmd: TRANSACTION UNDO
+[2021.05.26-23.59.09:937][110]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.59.10:144][131]Cmd: TRANSACTION UNDO
+[2021.05.26-23.59.10:144][131]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.59.16:560][874]Cmd: TRANSACTION UNDO
+[2021.05.26-23.59.16:560][874]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.59.19:123][131]Cmd: TRANSACTION UNDO
+[2021.05.26-23.59.19:123][131]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.59.21:471][400]Cmd: TRANSACTION UNDO
+[2021.05.26-23.59.21:471][400]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.59.25:458][867]Cmd: TRANSACTION UNDO
+[2021.05.26-23.59.25:458][867]LogEditorTransaction: Undo Edición de follage
+[2021.05.26-23.59.45:475][977]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PN_OpenWorldFoliage/Textures/ground_Albedo.ground_albedo
+[2021.05.26-23.59.45:520][977]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2021.05.26-23.59.49:422][327]LogTexture: Display: Building textures: ground_albedo (AutoDXT, 4096X4096)
+[2021.05.26-23.59.55:777][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PN_OpenWorldFoliage/Textures/ground_Albedo" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/PN_OpenWorldFoliage/Textures/ground_Albedo.uasset" SILENT=true
+[2021.05.26-23.59.56:016][591]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/ground_Albedo1390E56040E384361FB59BB4391354F5.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/PN_OpenWorldFoliage/Textures/ground_Albedo.uasset'
+[2021.05.26-23.59.56:030][591]AssetCheck: New page: Asset Save: ground_albedo
+[2021.05.26-23.59.56:030][591]LogContentValidation: Display: Validating Texture2D /Game/PN_OpenWorldFoliage/Textures/ground_Albedo.ground_albedo
+[2021.05.26-23.59.56:869][686]LogSlate: Window 'ground_albedo' being destroyed
+[2021.05.26-23.59.56:873][686]LogSlate: Window 'ground_albedo' being destroyed
+[2021.05.27-00.00.04:080][427]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.27-00.00.04:094][428]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.05.27-00.00.04:094][428]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.05.27-00.00.04:148][428]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.27-00.00.04:150][428]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.05.27-00.00.04:151][428]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.05.27-00.00.12:931][108]LogActorFactory: Actor Factory created autumn
+[2021.05.27-00.00.13:474][168]LogActorFactory: Actor Factory created autumn
+[2021.05.27-00.00.23:826][294]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_OpenWorldFoliage/ColorExamples/autumn.autumn
+[2021.05.27-00.00.31:127][835]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:543).
+[2021.05.27-00.00.40:126][205]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_OpenWorldFoliage/ColorExamples/MI_autumn.MI_autumn
+[2021.05.27-00.00.40:127][205]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0005 seconds. Added 3 classes and 0 folders.
+[2021.05.27-00.00.50:259][580]Cmd: TRANSACTION UNDO
+[2021.05.27-00.00.50:259][580]LogEditorTransaction: Undo Editar Specular
+[2021.05.27-00.00.54:687][764]LogSlate: Window 'MI_autumn' being destroyed
+[2021.05.27-00.00.54:719][764]LogSlate: Window 'MI_autumn' being destroyed
+[2021.05.27-00.00.54:745][764]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.00.54:745][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.00.54:812][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.27-00.00.54:831][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-00.00.55:331][764]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.05.27-00.00.55:331][764]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.05.27-00.00.55:331][764]TextureStreamingBuild: Display: Compiling optional shaders took 0.501 seconds.
+[2021.05.27-00.00.55:353][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.27-00.00.55:371][764]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.00.55:371][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.00.57:295][902]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_OpenWorldFoliage/ColorExamples/autumn.autumn
+[2021.05.27-00.01.01:045][ 80]LogSlate: Window 'autumn' being destroyed
+[2021.05.27-00.01.01:075][ 80]LogSlate: Window 'autumn' being destroyed
+[2021.05.27-00.01.01:105][ 80]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.01.01:105][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.01.04:500][269]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_OpenWorldFoliage/ColorExamples/Landscape_I.Landscape_I
+[2021.05.27-00.01.06:861][477]LogSlate: Window 'Landscape_I' being destroyed
+[2021.05.27-00.01.06:879][477]LogSlate: Window 'Landscape_I' being destroyed
+[2021.05.27-00.01.06:890][477]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.01.06:890][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.01.19:731][ 56]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_OpenWorldFoliage/ColorExamples/MI_autumn.MI_autumn
+[2021.05.27-00.01.32:237][305]LogSlate: Window 'MI_autumn' being destroyed
+[2021.05.27-00.01.32:254][305]LogSlate: Window 'MI_autumn' being destroyed
+[2021.05.27-00.01.32:299][305]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.01.32:299][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.01.53:084][306]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_OpenWorldFoliage/ColorExamples/darkGreen.darkGreen
+[2021.05.27-00.02.26:452][838]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_OpenWorldFoliage/ColorExamples/MI_darkGreen.MI_darkGreen
+[2021.05.27-00.02.32:340][111]LogMaterial: Display: Missing cached shader map for material MA_OpenWorldFoliage, compiling. 
+[2021.05.27-00.02.32:378][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 66
+[2021.05.27-00.02.32:378][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2021.05.27-00.02.32:378][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.05.27-00.02.32:378][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2021.05.27-00.02.32:378][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2021.05.27-00.02.32:378][112]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.05.27-00.02.32:378][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.05.27-00.02.32:378][112]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.05.27-00.02.33:833][177]LogSlate: Window 'Platform Stats' being destroyed
+[2021.05.27-00.02.33:852][177]LogSlate: Window 'Platform Stats' being destroyed
+[2021.05.27-00.02.57:806][239]LogSlate: Window 'Stats' being destroyed
+[2021.05.27-00.02.57:842][239]LogSlate: Window 'Stats' being destroyed
+[2021.05.27-00.03.02:569][462]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.03.02:569][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.03.06:827][647]LogSlate: Window 'darkGreen' being destroyed
+[2021.05.27-00.03.06:862][647]LogSlate: Window 'darkGreen' being destroyed
+[2021.05.27-00.03.06:865][647]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.03.06:865][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.03.15:152][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.27-00.03.17:273][291]LogSlate: Window 'Guardar contenido' being destroyed
+[2021.05.27-00.03.22:318][680]LogStaticMesh: Generando la malla estática openWorld_grass_01_02_04...
+[2021.05.27-00.03.22:373][680]LogStaticMesh: Built static mesh [0.05s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_02_04.openWorld_grass_01_02_04
+[2021.05.27-00.03.22:392][680]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_02_04.openWorld_grass_01_02_04
+[2021.05.27-00.03.47:200][682]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_OpenWorldFoliage/Materials/MI_OpenWorldFoliage.MI_OpenWorldFoliage
+[2021.05.27-00.03.48:523][742]LogSlate: Window 'MI_OpenWorldFoliage' being destroyed
+[2021.05.27-00.03.48:555][742]LogSlate: Window 'MI_OpenWorldFoliage' being destroyed
+[2021.05.27-00.03.48:594][742]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.03.48:594][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.03.48:641][742]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.03.48:641][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.03.58:512][537]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PN_OpenWorldFoliage/Textures/grass_albedo.grass_albedo
+[2021.05.27-00.04.01:545][774]LogTexture: Display: Building textures: grass_albedo (AutoDXT, 4096X4096)
+[2021.05.27-00.04.04:437][919]LogTexture: Display: Building textures: grass_albedo (AutoDXT, 4096X4096)
+[2021.05.27-00.04.08:913][236]LogTexture: Display: Building textures: grass_albedo (AutoDXT, 4096X4096)
+[2021.05.27-00.04.12:285][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PN_OpenWorldFoliage/Textures/grass_albedo" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/PN_OpenWorldFoliage/Textures/grass_albedo.uasset" SILENT=true
+[2021.05.27-00.04.12:363][488]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/grass_albedo255D2BB34674A75CE4B41E8278C828B0.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/PN_OpenWorldFoliage/Textures/grass_albedo.uasset'
+[2021.05.27-00.04.12:375][488]AssetCheck: New page: Asset Save: grass_albedo
+[2021.05.27-00.04.12:375][488]LogContentValidation: Display: Validating Texture2D /Game/PN_OpenWorldFoliage/Textures/grass_albedo.grass_albedo
+[2021.05.27-00.04.13:403][585]LogSlate: Window 'grass_albedo' being destroyed
+[2021.05.27-00.04.13:423][585]LogSlate: Window 'grass_albedo' being destroyed
+[2021.05.27-00.04.25:731][730]Cmd: TRANSACTION UNDO
+[2021.05.27-00.04.25:731][730]LogEditorTransaction: Undo Edición de follage
+[2021.05.27-00.04.35:877][484]Cmd: TRANSACTION UNDO
+[2021.05.27-00.04.35:877][484]LogEditorTransaction: Undo Edición de follage
+[2021.05.27-00.04.51:656][963]Cmd: TRANSACTION UNDO
+[2021.05.27-00.04.51:656][963]LogEditorTransaction: Undo Edición de follage
+[2021.05.27-00.04.56:759][393]Cmd: TRANSACTION UNDO
+[2021.05.27-00.04.56:759][393]LogEditorTransaction: Undo Edición de follage
+[2021.05.27-00.05.17:900][257]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-00.05.17:905][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-00.05.17:905][257]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 4:05:17)
+[2021.05.27-00.05.17:905][257]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.05.17:957][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051804s)
+[2021.05.27-00.05.17:958][257]LogAIModule: Creating AISystem for world Blockout
+[2021.05.27-00.05.17:958][257]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2021.05.27-00.05.17:958][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.052986s)
+[2021.05.27-00.05.17:964][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.27-00.05.17:971][257]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.05.27-00.05.17:972][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-00.05.17:972][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-00.05.17:972][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-00.05.17:972][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-00.05.17:972][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-00.05.17:972][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-00.05.17:972][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-00.05.17:972][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-00.05.17:972][257]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-00.05.17:972][257]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-00.05.17:975][257]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-00.05.17:975][257]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-00.05.17:984][257]LogAudioMixer: Display: Using Audio Device Altavoces (5- Tronsmart Glary)
+[2021.05.27-00.05.17:984][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-00.05.17:984][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-00.05.17:984][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-00.05.17:985][257]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-00.05.17:985][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-00.05.17:985][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-00.05.17:996][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-00.05.17:996][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-00.05.17:996][257]LogInit: FAudioDevice initialized.
+[2021.05.27-00.05.17:996][257]LogAudio: Display: Audio Device (ID: 17) registered with world 'Blockout'.
+[2021.05.27-00.05.18:004][257]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-00.05.18:011][257]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2021.05.27-02.05.18
+[2021.05.27-00.05.18:012][257]LogWorld: Bringing up level for play took: 0.007208
+[2021.05.27-00.05.18:012][257]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.05.27-00.05.18:016][257]PIE: El servidor ha iniciado la sesión
+[2021.05.27-00.05.18:017][257]PIE: Play in editor total start time 0,113 seconds.
+[2021.05.27-00.05.22:015][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.05.22:015][661]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.05.22:015][661]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.05.22:017][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.05.22:024][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-00.05.22:026][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.05.22:030][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.27-00.05.22:031][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.05.22:032][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.05.22:045][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.05.22:050][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.27-00.05.22:065][662]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.05.27-00.05.26:164][ 29]Cmd: DELETE
+[2021.05.27-00.05.26:164][ 29]Cmd: ACTOR DELETE
+[2021.05.27-00.05.26:184][ 29]LogEditorActor: Deleted Actor: Brush
+[2021.05.27-00.05.26:189][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.27-00.05.26:216][ 29]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.05.27-00.07.13:938][200]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-00.07.13:944][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-00.07.13:944][200]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 4:07:13)
+[2021.05.27-00.07.13:965][200]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.07.14:022][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055837s)
+[2021.05.27-00.07.14:022][200]LogAIModule: Creating AISystem for world Blockout
+[2021.05.27-00.07.14:023][200]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2021.05.27-00.07.14:023][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.057105s)
+[2021.05.27-00.07.14:027][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.27-00.07.14:033][200]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.05.27-00.07.14:033][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-00.07.14:033][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-00.07.14:033][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-00.07.14:033][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-00.07.14:033][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-00.07.14:033][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-00.07.14:033][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-00.07.14:033][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-00.07.14:034][200]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-00.07.14:034][200]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-00.07.14:037][200]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-00.07.14:037][200]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-00.07.14:045][200]LogAudioMixer: Display: Using Audio Device Altavoces (5- Tronsmart Glary)
+[2021.05.27-00.07.14:045][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-00.07.14:045][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-00.07.14:045][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-00.07.14:046][200]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-00.07.14:046][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-00.07.14:046][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-00.07.14:057][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-00.07.14:057][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-00.07.14:057][200]LogInit: FAudioDevice initialized.
+[2021.05.27-00.07.14:057][200]LogAudio: Display: Audio Device (ID: 18) registered with world 'Blockout'.
+[2021.05.27-00.07.14:067][200]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-00.07.14:074][200]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2021.05.27-02.07.14
+[2021.05.27-00.07.14:075][200]LogWorld: Bringing up level for play took: 0.007358
+[2021.05.27-00.07.14:075][200]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.05.27-00.07.14:079][200]PIE: El servidor ha iniciado la sesión
+[2021.05.27-00.07.14:080][200]PIE: Play in editor total start time 0,137 seconds.
+[2021.05.27-00.07.17:927][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.07.17:927][548]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.07.17:927][548]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.07.17:929][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.07.17:937][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-00.07.17:940][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.07.17:945][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.27-00.07.17:945][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.07.17:946][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.07.17:959][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.07.17:962][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.27-00.07.18:036][550]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.05.27-00.08.01:400][408]Cmd: TRANSACTION UNDO
+[2021.05.27-00.08.01:400][408]LogEditorTransaction: Undo Edición de follage
+[2021.05.27-00.08.13:303][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.27-00.08.13:307][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.27-00.08.13:515][292]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout4B6281E24C2FC981C496F19B9AE28CAB.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap'
+[2021.05.27-00.08.13:525][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout_BuiltData" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset" SILENT=true
+[2021.05.27-00.08.13:773][292]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout_BuiltData7F1BB42D40B7909930891297237EA9A1.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset'
+[2021.05.27-00.08.13:791][292]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.27-00.08.13:791][292]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
+[2021.05.27-00.08.13:792][292]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
+[2021.05.27-00.08.18:796][547]MapCheck: New page: Revisión del mapa
+[2021.05.27-00.08.18:804][547]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.27-00.08.18:804][547]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.27-00.08.18:900][547]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=false
+[2021.05.27-00.08.18:963][547]LightingResults: New page: Diseño de la iluminación - 27 may. 2021 4:08:18
+[2021.05.27-00.08.18:971][547]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2021.05.27-00.08.18:980][547]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.27-00.08.18:994][547]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.27-00.08.18:994][547]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.27-00.08.18:994][547]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.27-00.08.18:994][547]LogSwarmInterface: [TryOpenConnection] Local Process ID is 125304
+[2021.05.27-00.08.23:541][547]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.05.27-00.08.23:583][547]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.27-00.08.23:583][547]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.27-00.08.23:583][547]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.27-00.08.23:583][547]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.27-00.08.23:583][547]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.27-00.08.24:064][547]LogEditorBuildUtils: Build time 0:05
+[2021.05.27-00.08.24:085][547]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_autumn, compiling. 
+[2021.05.27-00.08.24:087][547]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_autumn, compiling. 
+[2021.05.27-00.08.24:089][547]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_autumn, compiling. 
+[2021.05.27-00.08.24:094][547]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.05.27-00.08.24:094][547]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.05.27-00.08.24:094][547]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.05.27-00.08.24:095][547]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.05.27-00.08.24:095][547]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.05.27-00.08.24:095][547]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.05.27-00.08.27:196][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.27-00.09.02:295][729]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.02:295][729]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.22:115][922]LightingResults: Warning: tow El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.22:115][922]LightingResults: tow Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.34:900][687]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.34:900][687]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.38:200][885]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.38:200][885]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.40:782][ 39]LightingResults: Warning: tow El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.40:782][ 39]LightingResults: tow Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.46:449][204]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.46:449][204]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.47:116][206]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.47:116][206]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.47:787][208]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.47:787][208]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.47:787][208]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.47:787][208]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.48:455][210]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.48:455][210]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.49:465][213]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.49:465][213]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.50:134][215]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.50:134][215]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.50:832][217]LightingResults: Warning: tow El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.50:832][217]LightingResults: tow Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.51:194][218]LightingResults: Warning: tow El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.51:194][218]LightingResults: tow Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.51:519][219]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.51:519][219]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.51:873][220]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.51:873][220]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.52:207][221]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.52:207][221]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.52:895][223]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.52:895][223]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.53:240][224]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.53:240][224]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.54:627][228]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.54:627][228]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.55:299][230]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.55:299][230]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.09.56:006][232]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.09.56:008][232]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.10.01:770][249]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.10.01:770][249]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.10.03:126][253]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.10.03:126][253]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.10.03:788][255]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.10.03:788][255]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.10.06:131][262]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.10.06:131][262]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.10.15:622][290]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.10.15:622][290]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.10.16:288][292]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.10.16:288][292]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.10.17:977][297]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.10.17:977][297]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.10.19:663][302]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.10.19:663][302]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.10.23:695][314]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.10.23:695][314]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.10.30:438][334]LightingResults: Warning: mini_tower El objeto tiene UVs superpuestas.
+[2021.05.27-00.10.30:438][334]LightingResults: mini_tower Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.27-00.12.15:488][539]Job is a success!
+[2021.05.27-00.12.16:185][540]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.226s
+[2021.05.27-00.12.16:185][540]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.05.27-00.12.16:185][540]LogVolumetricLightmapImport:      BrickData (all levels) 7.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2021.05.27-00.12.16:185][540]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.27-00.12.16:185][540]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2021.05.27-00.12.16:185][540]LogVolumetricLightmapImport:          1: 6.4% covering 18.4% of volume
+[2021.05.27-00.12.16:185][540]LogVolumetricLightmapImport:          2: 93.1% covering 4.2% of volume
+[2021.05.27-00.12.16:185][540]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.27-00.12.16:185][540]LogVolumetricLightmapImport:          Blockout 			 1480 bricks 	 100.0% (Persistent Level)
+[2021.05.27-00.12.46:350][540]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 8192X4096)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 8192X8192)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 8192X8192)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 128X64)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 64X32)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 64X64)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 64X64)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 64X32)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 64X64)
+[2021.05.27-00.12.46:359][540]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 64X64)
+[2021.05.27-00.12.46:658][540]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2021.05.27-00.12.46:658][540]Lightmass on DESKTOP-2PRLTLP: 4:18 min total, 518 ms importing, 511 ms setup, 13.6 sec photons, 4:04 min processing, 0 ms extra exporting [5236/5236 mappings]. Threads: 44:44 min total, 10:50 min processing.
+[2021.05.27-00.12.46:845][540]LogStaticLightingSystem: Blockout_BuiltData storing lightmap data for 341 meshes in 10 LightmapResourceClusters (34.1 Meshes per cluster).
+[2021.05.27-00.12.46:974][540]LogMaterial: Display: Material /Game/PN_OpenWorldFoliage/Materials/MA_OpenWorldFoliage.MA_OpenWorldFoliage needed to have new flag set bUsedWithStaticLighting !
+[2021.05.27-00.12.47:055][540]LogMaterial: Display: Missing cached shader map for material MA_OpenWorldFoliage, compiling. 
+[2021.05.27-00.12.47:149][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 92
+[2021.05.27-00.12.47:149][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 82
+[2021.05.27-00.12.47:149][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 72
+[2021.05.27-00.12.47:149][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 62
+[2021.05.27-00.12.47:149][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 52
+[2021.05.27-00.12.47:149][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 42
+[2021.05.27-00.12.47:149][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2021.05.27-00.12.47:149][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.05.27-00.12.47:155][540]LogMaterial: Display: Missing cached shader map for material MA_OpenWorldFoliage, compiling. 
+[2021.05.27-00.12.47:488][540]LogUObjectHash: Compacting FUObjectHashTables data took  39.50ms
+[2021.05.27-00.12.48:331][540]LogStaticLightingSystem: Illumination: 4:29 min (24.7 sec encoding lightmaps, 97 ms encoding shadowmaps)
+[2021.05.27-00.12.48:332][540]LogStaticLightingSystem: Lightmap texture memory:  174.2 MB (171.6 MB streaming, 2.7 MB non-streaming), 16 textures
+[2021.05.27-00.12.48:332][540]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.05.27-00.12.52:881][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 104
+[2021.05.27-00.12.52:881][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 94
+[2021.05.27-00.12.52:883][540]DumpUnbuiltLightIteractions
+[2021.05.27-00.12.52:883][540]Lights with unbuilt interactions: 0
+[2021.05.27-00.12.52:883][540]
+[2021.05.27-00.12.52:883][540]Primitives with unbuilt interactions: 0
+[2021.05.27-00.13.02:826][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 84
+[2021.05.27-00.13.02:826][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 74
+[2021.05.27-00.13.02:826][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 64
+[2021.05.27-00.13.02:826][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2021.05.27-00.13.02:826][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 46
+[2021.05.27-00.13.02:826][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 40
+[2021.05.27-00.13.02:826][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2021.05.27-00.13.02:826][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.05.27-00.13.02:827][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.05.27-00.13.03:108][540]LogTexture: Display: Building textures: NewReflectionComponentTextureDC6B6FA1455AF1E4E1689BA470091878 (BGRA8, 128X128)
+[2021.05.27-00.13.03:127][540]LogTexture: Display: Building textures: NewReflectionComponentTexture31BE77F840D8453810415D8A9F0C7C6D (BGRA8, 128X128)
+[2021.05.27-00.13.03:351][541]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.27-00.13.03:362][541]MapCheck: New page: Blockout - 27 may. 2021 4:13:03
+[2021.05.27-00.13.03:377][541]MapCheck: Error: Fire_Actor7_2 /Game/scenes/Blockout.Blockout:PersistentLevel.Fire_Actor7_2 : DrawScale/DrawScale3D no válido 
+[2021.05.27-00.13.03:377][541]MapCheck: Error: Fire_Actor8 /Game/scenes/Blockout.Blockout:PersistentLevel.Fire_Actor8 : DrawScale/DrawScale3D no válido 
+[2021.05.27-00.13.03:377][541]MapCheck: Error: Fire_Actor9 /Game/scenes/Blockout.Blockout:PersistentLevel.Fire_Actor9 : DrawScale/DrawScale3D no válido 
+[2021.05.27-00.13.03:377][541]MapCheck: Error: Fire_Actor10 /Game/scenes/Blockout.Blockout:PersistentLevel.Fire_Actor10 : DrawScale/DrawScale3D no válido 
+[2021.05.27-00.13.03:381][541]MapCheck: Map check complete: 4 Error(s), 0 Warning(s), took 29,098ms to complete.
+[2021.05.27-00.13.05:405][726]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.27-00.13.05:423][726]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.27-00.13.08:223][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.27-00.13.08:232][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.05.27-00.13.08:541][ 16]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout0F6527794A692445433C70BA9E23E7EF.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap'
+[2021.05.27-00.13.08:561][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout_BuiltData" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset" SILENT=true
+[2021.05.27-00.13.12:954][ 16]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout_BuiltData1F33D2AE475EFAF2B3788581DCC5CF95.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset'
+[2021.05.27-00.13.13:135][ 16]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.27-00.13.13:135][ 16]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
+[2021.05.27-00.13.13:135][ 16]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
+[2021.05.27-00.15.34:508][497]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.27-00.15.34:787][497]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2021.05.27-00.15.34:787][497]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PN_OpenWorldFoliage/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2021.05.27-00.15.34:787][497]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.27-00.15.34:822][497]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2021.05.27-00.15.34:891][497]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 70
+[2021.05.27-00.15.34:891][497]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 61
+[2021.05.27-00.15.34:891][497]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2021.05.27-00.15.34:891][497]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 43
+[2021.05.27-00.15.34:891][497]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2021.05.27-00.15.34:891][497]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.05.27-00.15.34:891][497]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.05.27-00.15.34:891][497]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.05.27-00.15.34:891][497]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/PN_OpenWorldFoliage/UE4_ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2021.05.27-00.15.34:896][497]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PN_OpenWorldFoliage/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2021.05.27-00.15.34:896][497]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.27-00.15.34:948][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_02_02...
+[2021.05.27-00.15.34:972][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_02_02.openWorld_grass_02_02_02
+[2021.05.27-00.15.34:976][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_02_03...
+[2021.05.27-00.15.34:994][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_02_03.openWorld_grass_02_02_03
+[2021.05.27-00.15.34:997][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_03_01...
+[2021.05.27-00.15.35:013][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_03_01.openWorld_grass_02_03_01
+[2021.05.27-00.15.35:016][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_02_01...
+[2021.05.27-00.15.35:032][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_02_01.openWorld_grass_02_02_01
+[2021.05.27-00.15.35:036][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_03_03...
+[2021.05.27-00.15.35:055][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_03_03.openWorld_grass_02_03_03
+[2021.05.27-00.15.35:060][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_03_04...
+[2021.05.27-00.15.35:089][497]LogStaticMesh: Built static mesh [0.03s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_03_04.openWorld_grass_02_03_04
+[2021.05.27-00.15.35:094][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_03_02...
+[2021.05.27-00.15.35:119][497]LogStaticMesh: Built static mesh [0.03s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_03_02.openWorld_grass_02_03_02
+[2021.05.27-00.15.35:126][497]LogStaticMesh: Generando la malla estática openWorld_grass_01_01_01...
+[2021.05.27-00.15.35:144][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_01_01.openWorld_grass_01_01_01
+[2021.05.27-00.15.35:146][497]LogStaticMesh: Generando la malla estática openWorld_grass_01_01_02...
+[2021.05.27-00.15.35:158][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_01_02.openWorld_grass_01_01_02
+[2021.05.27-00.15.35:161][497]LogStaticMesh: Generando la malla estática openWorld_grass_01_02_01...
+[2021.05.27-00.15.35:172][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_02_01.openWorld_grass_01_02_01
+[2021.05.27-00.15.35:175][497]LogStaticMesh: Generando la malla estática openWorld_grass_01_02_02...
+[2021.05.27-00.15.35:190][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_02_02.openWorld_grass_01_02_02
+[2021.05.27-00.15.35:193][497]LogStaticMesh: Generando la malla estática openWorld_grass_01_02_03...
+[2021.05.27-00.15.35:207][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_02_03.openWorld_grass_01_02_03
+[2021.05.27-00.15.35:209][497]LogStaticMesh: Generando la malla estática openWorld_grass_01_03_01...
+[2021.05.27-00.15.35:222][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_03_01.openWorld_grass_01_03_01
+[2021.05.27-00.15.35:225][497]LogStaticMesh: Generando la malla estática openWorld_grass_01_03_02...
+[2021.05.27-00.15.35:241][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_03_02.openWorld_grass_01_03_02
+[2021.05.27-00.15.35:245][497]LogStaticMesh: Generando la malla estática openWorld_grass_01_03_03...
+[2021.05.27-00.15.35:260][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_03_03.openWorld_grass_01_03_03
+[2021.05.27-00.15.35:263][497]LogStaticMesh: Generando la malla estática openWorld_grass_01_03_04...
+[2021.05.27-00.15.35:281][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_03_04.openWorld_grass_01_03_04
+[2021.05.27-00.15.35:285][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_01_01...
+[2021.05.27-00.15.35:302][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_01_01.openWorld_grass_02_01_01
+[2021.05.27-00.15.35:307][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_01_02...
+[2021.05.27-00.15.35:330][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_01_02.openWorld_grass_02_01_02
+[2021.05.27-00.15.35:334][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_01_03...
+[2021.05.27-00.15.35:352][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_01_03.openWorld_grass_02_01_03
+[2021.05.27-00.15.35:356][497]LogStaticMesh: Generando la malla estática openWorld_grass_02_01_04...
+[2021.05.27-00.15.35:382][497]LogStaticMesh: Built static mesh [0.03s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_01_04.openWorld_grass_02_01_04
+[2021.05.27-00.15.35:387][497]LogStaticMesh: Generando la malla estática openWorld_flower_01_01...
+[2021.05.27-00.15.35:398][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_01_01.openWorld_flower_01_01
+[2021.05.27-00.15.35:402][497]LogStaticMesh: Generando la malla estática openWorld_flower_01_02...
+[2021.05.27-00.15.35:423][497]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_01_02.openWorld_flower_01_02
+[2021.05.27-00.15.35:427][497]LogStaticMesh: Generando la malla estática openWorld_flower_02_01...
+[2021.05.27-00.15.35:432][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_01.openWorld_flower_02_01
+[2021.05.27-00.15.35:433][497]LogStaticMesh: Generando la malla estática openWorld_flower_02_02...
+[2021.05.27-00.15.35:440][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02.openWorld_flower_02_02
+[2021.05.27-00.15.35:441][497]LogStaticMesh: Generando la malla estática openWorld_flower_03_01...
+[2021.05.27-00.15.35:446][497]LogStaticMesh: Built static mesh [0.00s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_03_01.openWorld_flower_03_01
+[2021.05.27-00.15.35:449][497]LogStaticMesh: Generando la malla estática openWorld_flower_03_02...
+[2021.05.27-00.15.35:455][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_03_02.openWorld_flower_03_02
+[2021.05.27-00.15.35:457][497]LogStaticMesh: Generando la malla estática openWorld_flower_04_01...
+[2021.05.27-00.15.35:462][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_04_01.openWorld_flower_04_01
+[2021.05.27-00.15.35:464][497]LogStaticMesh: Generando la malla estática openWorld_flower_04_02...
+[2021.05.27-00.15.35:474][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_04_02.openWorld_flower_04_02
+[2021.05.27-00.15.35:475][497]LogStaticMesh: Generando la malla estática openWorld_flower_05_01...
+[2021.05.27-00.15.35:482][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_05_01.openWorld_flower_05_01
+[2021.05.27-00.15.35:484][497]LogStaticMesh: Generando la malla estática openWorld_flower_05_02...
+[2021.05.27-00.15.35:496][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_05_02.openWorld_flower_05_02
+[2021.05.27-00.15.35:498][497]LogStaticMesh: Generando la malla estática openWorld_flower_06_01...
+[2021.05.27-00.15.35:504][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_06_01.openWorld_flower_06_01
+[2021.05.27-00.15.35:506][497]LogStaticMesh: Generando la malla estática openWorld_flower_06_02...
+[2021.05.27-00.15.35:513][497]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_06_02.openWorld_flower_06_02
+[2021.05.27-00.15.35:518][497]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.27-00.15.35:597][497]LogObjectTools: Deleting 1 worlds: /Game/PN_OpenWorldFoliage/Maps/Showroom.Showroom
+[2021.05.27-00.15.35:598][497]LogObjectTools: Currently 6 active worlds: /Game/scenes/Blockout.Blockout, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4
+[2021.05.27-00.15.35:609][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.05.27-00.15.36:690][497]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-00.15.36:712][497]LogWorld: UWorld::CleanupWorld for Showroom, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.15.36:714][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.15.36:814][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.05.27-00.15.36:835][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.05.27-00.15.36:842][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.27-00.15.36:874][498]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PN_OpenWorldFoliage/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2021.05.27-00.15.36:874][498]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PN_OpenWorldFoliage/UE4_ThirdPerson/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2021.05.27-00.15.36:887][499]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PN_OpenWorldFoliage/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2021.05.27-00.15.36:897][500]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PN_OpenWorldFoliage/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2021.05.27-00.15.37:494][543]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 148
+[2021.05.27-00.15.37:761][551]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 138
+[2021.05.27-00.15.37:784][553]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 128
+[2021.05.27-00.15.37:901][556]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 118
+[2021.05.27-00.15.38:512][574]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 108
+[2021.05.27-00.15.38:911][587]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 98
+[2021.05.27-00.15.39:038][591]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 88
+[2021.05.27-00.15.39:315][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.27-00.15.39:392][598]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 78
+[2021.05.27-00.15.40:034][598]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 68
+[2021.05.27-00.15.40:581][598]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 59
+[2021.05.27-00.15.40:870][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 51
+[2021.05.27-00.15.41:792][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2021.05.27-00.15.41:863][598]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2021.05.27-00.15.42:294][598]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 33
+[2021.05.27-00.15.42:565][598]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.05.27-00.15.42:601][598]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.05.27-00.15.42:875][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.05.27-00.15.42:983][598]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.05.27-00.15.43:312][598]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-00.15.43:446][602]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.05.27-00.15.43:521][603]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.05.27-00.15.43:812][612]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.05.27-00.15.43:817][612]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.05.27-00.15.44:423][628]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.05.27-00.15.44:423][628]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.05.27-00.15.44:606][634]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.05.27-00.15.44:706][637]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.05.27-00.15.44:773][639]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.05.27-00.15.44:844][641]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.05.27-00.15.48:497][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.27-00.15.54:970][791]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-00.15.54:978][791]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PN_OpenWorldFoliage/ColorExamples/darkGreen.darkGreen
+[2021.05.27-00.15.59:386][791]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.05.27-00.15.59:440][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.05.27-00.15.59:453][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.05.27-00.15.59:457][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.27-00.16.00:671][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.27-00.16.01:816][853]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-00.16.01:920][853]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PN_OpenWorldFoliage/ColorExamples/freshGreen.freshGreen
+[2021.05.27-00.16.02:145][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.05.27-00.16.02:149][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.05.27-00.16.02:153][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.27-00.16.04:693][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.05.27-00.16.06:022][954]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-00.16.06:128][954]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PN_OpenWorldFoliage/ColorExamples/weathered.weathered
+[2021.05.27-00.16.06:338][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.27-00.16.06:343][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.27-00.16.06:346][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-00.16.16:555][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PN_OpenWorldFoliage/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2021.05.27-00.16.16:557][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.05.27-00.16.20:519][514]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-00.16.20:601][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.27-00.16.20:605][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.16.20:608][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.05.27-00.16.20:611][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.27-00.16.20:614][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.16.20:618][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.27-00.16.20:621][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-00.16.20:624][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.27-00.16.20:627][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-00.16.20:630][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.16.20:634][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.27-00.16.20:637][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-00.16.20:640][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.27-00.16.20:644][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.16.20:648][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.16.20:651][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.16.20:654][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.05.27-00.16.20:657][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.27-00.16.20:660][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-00.16.20:664][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.05.27-00.16.20:667][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.27-00.16.20:670][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-00.16.20:673][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-00.16.20:677][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.05.27-00.16.20:680][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-00.16.20:683][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-00.16.20:687][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.27-00.16.20:690][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.27-00.16.20:703][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.27-00.16.20:707][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.27-00.16.27:620][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.27-00.16.35:049][ 91]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-00.16.38:976][414]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-00.16.38:985][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-00.16.38:985][414]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 4:16:38)
+[2021.05.27-00.16.39:018][414]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.16.39:077][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058632s)
+[2021.05.27-00.16.39:101][414]LogAIModule: Creating AISystem for world Blockout
+[2021.05.27-00.16.39:106][414]LogPlayLevel: PIE: World Init took: (0.029428s)
+[2021.05.27-00.16.39:106][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.088332s)
+[2021.05.27-00.16.39:111][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.27-00.16.39:112][414]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.05.27-00.16.39:113][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-00.16.39:113][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-00.16.39:113][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-00.16.39:113][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-00.16.39:113][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-00.16.39:113][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-00.16.39:113][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-00.16.39:114][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-00.16.39:116][414]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-00.16.39:116][414]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-00.16.39:120][414]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-00.16.39:120][414]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-00.16.39:136][414]LogAudioMixer: Display: Using Audio Device Altavoces (5- Tronsmart Glary)
+[2021.05.27-00.16.39:138][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-00.16.39:138][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-00.16.39:138][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-00.16.39:139][414]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-00.16.39:139][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-00.16.39:139][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-00.16.39:150][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-00.16.39:150][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-00.16.39:150][414]LogInit: FAudioDevice initialized.
+[2021.05.27-00.16.39:150][414]LogAudio: Display: Audio Device (ID: 19) registered with world 'Blockout'.
+[2021.05.27-00.16.39:169][414]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-00.16.39:183][414]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2021.05.27-02.16.39
+[2021.05.27-00.16.39:183][414]LogWorld: Bringing up level for play took: 0.010694
+[2021.05.27-00.16.39:189][414]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.05.27-00.16.39:215][414]PIE: El servidor ha iniciado la sesión
+[2021.05.27-00.16.39:216][414]PIE: Play in editor total start time 0,234 seconds.
+[2021.05.27-00.16.40:648][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.16.40:648][550]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.16.40:651][550]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.16.40:653][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.16.40:664][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-00.16.40:667][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.16.40:671][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.16.40:672][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.16.40:674][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.16.40:706][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.05.27-00.16.40:722][551]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.05.27-00.16.52:513][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.05.27-00.16.59:694][178]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-00.16.59:808][178]LogUObjectGlobals: Force Deleting 36 Package(s):
+	Asset Name: /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_03_04.openWorld_grass_02_03_04
+	Asset Name: /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_03_03.openWorld_grass_02_03_03
+	Asset Name: /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_03_02.openWorld_grass_02_03_02
+	Asset Name: /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_03_01.openWorld_grass_02_03_01
+	Asset Name: /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_02_04.openWorld_grass_02_02_04
+	Asset Name: /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_02_03.openWorld_grass_02_02_03
+	Asset Name: /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_02_02.openWorld_grass_02_02_02
+	Asset Name: /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_02_01.openWorld_grass_02_02_01
+	Asset Name: /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_01_04.openWorld_grass_02_01_04
+	Asset Name: /Game/PN_OpenWorldFoliage/Meshes/openWorld_grass_02_01_03.openWorld_grass_02_01_03
+[2021.05.27-00.17.03:270][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.27-00.17.03:277][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.27-00.17.03:281][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.27-00.17.03:284][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-00.17.03:290][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.27-00.17.03:293][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-00.17.03:296][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.05.27-00.17.03:299][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-00.17.03:302][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-00.17.03:305][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.27-00.17.03:308][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.17.03:311][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.17.03:315][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.27-00.17.03:318][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.05.27-00.17.03:321][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.17.03:324][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.17.03:328][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.27-00.17.03:331][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-00.17.03:334][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.27-00.17.03:337][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-00.17.03:341][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.27-00.17.03:345][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.27-00.17.03:348][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.17.03:351][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-00.17.03:354][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-00.17.03:357][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-00.17.03:360][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.17.03:363][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.27-00.17.03:366][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-00.17.03:369][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-00.17.03:372][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.27-00.17.03:375][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.27-00.17.03:379][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.05.27-00.17.03:382][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.05.27-00.17.03:385][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-00.17.03:388][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.27-00.17.03:392][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.27-00.17.03:395][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.05.27-00.17.06:232][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.27-00.17.06:236][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-00.17.06:444][462]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout56E1CADE4F1C72AF42909EB04FDD922F.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap'
+[2021.05.27-00.17.06:454][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout_BuiltData" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset" SILENT=true
+[2021.05.27-00.17.10:676][462]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout_BuiltDataEDF67E2445DDAF2FE46E0EA14639F9B6.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset'
+[2021.05.27-00.17.10:954][462]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.27-00.17.10:954][462]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
+[2021.05.27-00.17.10:954][462]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
+[2021.05.27-00.17.12:224][605]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-00.17.12:229][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-00.17.12:230][605]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 4:17:12)
+[2021.05.27-00.17.12:259][605]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.17.12:313][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054475s)
+[2021.05.27-00.17.12:314][605]LogAIModule: Creating AISystem for world Blockout
+[2021.05.27-00.17.12:315][605]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2021.05.27-00.17.12:315][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.056072s)
+[2021.05.27-00.17.12:319][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.05.27-00.17.12:320][605]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.05.27-00.17.12:320][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-00.17.12:320][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-00.17.12:320][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-00.17.12:320][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-00.17.12:320][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-00.17.12:320][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-00.17.12:320][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-00.17.12:320][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-00.17.12:320][605]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-00.17.12:320][605]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-00.17.12:323][605]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-00.17.12:323][605]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-00.17.12:331][605]LogAudioMixer: Display: Using Audio Device Altavoces (5- Tronsmart Glary)
+[2021.05.27-00.17.12:331][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-00.17.12:331][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-00.17.12:331][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-00.17.12:332][605]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-00.17.12:332][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-00.17.12:332][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-00.17.12:343][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-00.17.12:344][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-00.17.12:344][605]LogInit: FAudioDevice initialized.
+[2021.05.27-00.17.12:344][605]LogAudio: Display: Audio Device (ID: 20) registered with world 'Blockout'.
+[2021.05.27-00.17.12:354][605]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-00.17.12:361][605]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2021.05.27-02.17.12
+[2021.05.27-00.17.12:362][605]LogWorld: Bringing up level for play took: 0.007833
+[2021.05.27-00.17.12:362][605]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.05.27-00.17.12:366][605]PIE: El servidor ha iniciado la sesión
+[2021.05.27-00.17.12:367][605]PIE: Play in editor total start time 0,138 seconds.
+[2021.05.27-00.17.13:220][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.17.13:220][684]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.17.13:220][684]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.17.13:222][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.17.13:232][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-00.17.13:235][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.17.13:238][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.17.13:239][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.17.13:240][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.17.13:258][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.05.27-00.17.13:338][686]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.05.27-00.17.18:294][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-00.17.18:298][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-00.17.18:298][ 76]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 4:17:18)
+[2021.05.27-00.17.18:298][ 76]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.17.18:351][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052907s)
+[2021.05.27-00.17.18:352][ 76]LogAIModule: Creating AISystem for world Blockout
+[2021.05.27-00.17.18:352][ 76]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2021.05.27-00.17.18:352][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.054059s)
+[2021.05.27-00.17.18:356][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.05.27-00.17.18:357][ 76]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.05.27-00.17.18:357][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-00.17.18:357][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-00.17.18:357][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-00.17.18:357][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-00.17.18:357][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-00.17.18:357][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-00.17.18:357][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-00.17.18:357][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-00.17.18:357][ 76]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-00.17.18:357][ 76]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-00.17.18:360][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-00.17.18:360][ 76]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-00.17.18:368][ 76]LogAudioMixer: Display: Using Audio Device Altavoces (5- Tronsmart Glary)
+[2021.05.27-00.17.18:368][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-00.17.18:368][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-00.17.18:368][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-00.17.18:369][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-00.17.18:369][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-00.17.18:369][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-00.17.18:380][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-00.17.18:380][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-00.17.18:380][ 76]LogInit: FAudioDevice initialized.
+[2021.05.27-00.17.18:380][ 76]LogAudio: Display: Audio Device (ID: 21) registered with world 'Blockout'.
+[2021.05.27-00.17.18:391][ 76]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-00.17.18:400][ 76]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2021.05.27-02.17.18
+[2021.05.27-00.17.18:401][ 76]LogWorld: Bringing up level for play took: 0.008289
+[2021.05.27-00.17.18:401][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.05.27-00.17.18:404][ 76]PIE: El servidor ha iniciado la sesión
+[2021.05.27-00.17.18:406][ 76]PIE: Play in editor total start time 0,108 seconds.
+[2021.05.27-00.17.19:861][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.17.19:861][207]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.17.19:861][207]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.17.19:863][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.17.19:868][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-00.17.19:871][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.17.19:874][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.17.19:874][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.17.19:875][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.17.19:895][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.05.27-00.17.19:970][209]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.05.27-00.18.38:545][ 14]LogLinker: Warning: Failed to load '/Game/PN_OpenWorldFoliage/Materials/MI_OpenWorldGround': Can't find file.
+[2021.05.27-00.18.38:545][ 14]LogLinker: Warning: Failed to load '/Game/PN_OpenWorldFoliage/Materials/MI_OpenWorldGround': Can't find file.
+[2021.05.27-00.18.38:545][ 14]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/PN_OpenWorldFoliage/Materials/MI_OpenWorldGround.MI_OpenWorldGround'
+[2021.05.27-00.18.39:215][ 17]LogFileManager: Warning: DeleteFile was unable to delete 'M:/Dev/3DenviromentProjectCITM/blockout/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2021.05.27-00.18.39:881][ 19]LogFileManager: Warning: DeleteFile recovered during retry!
+[2021.05.27-00.18.45:141][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.27-00.18.45:145][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.27-00.18.45:351][310]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/BlockoutADBDC0BF42B4D35490A1DEA56AE266E3.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap'
+[2021.05.27-00.18.45:357][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout_BuiltData" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset" SILENT=true
+[2021.05.27-00.18.49:500][310]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout_BuiltData75C8911842D49423FD4B88A2DB971EAD.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset'
+[2021.05.27-00.18.49:501][310]LogFileManager: Warning: DeleteFile was unable to delete 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset', retrying in .5s...
+[2021.05.27-00.18.50:004][310]LogFileManager: Warning: DeleteFile recovered during retry!
+[2021.05.27-00.18.50:033][310]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.27-00.18.50:033][310]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
+[2021.05.27-00.18.50:033][310]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
+[2021.05.27-00.19.15:462][927]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-00.19.15:466][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-00.19.15:466][927]PIE: New page: Sesión PIE (reproducción en el editor): Blockout (27 may. 2021 4:19:15)
+[2021.05.27-00.19.15:466][927]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.19.15:519][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052477s)
+[2021.05.27-00.19.15:520][927]LogAIModule: Creating AISystem for world Blockout
+[2021.05.27-00.19.15:520][927]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2021.05.27-00.19.15:520][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Blockout.Blockout to /Game/scenes/UEDPIE_0_Blockout.Blockout (0.053644s)
+[2021.05.27-00.19.15:525][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.05.27-00.19.15:526][927]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.05.27-00.19.15:526][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-00.19.15:526][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-00.19.15:526][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-00.19.15:526][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-00.19.15:526][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-00.19.15:526][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-00.19.15:526][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-00.19.15:526][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-00.19.15:526][927]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-00.19.15:526][927]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-00.19.15:529][927]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-00.19.15:529][927]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-00.19.15:537][927]LogAudioMixer: Display: Using Audio Device Altavoces (5- Tronsmart Glary)
+[2021.05.27-00.19.15:538][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-00.19.15:538][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-00.19.15:538][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-00.19.15:538][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-00.19.15:538][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-00.19.15:538][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-00.19.15:546][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-00.19.15:546][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-00.19.15:546][927]LogInit: FAudioDevice initialized.
+[2021.05.27-00.19.15:546][927]LogAudio: Display: Audio Device (ID: 22) registered with world 'Blockout'.
+[2021.05.27-00.19.15:557][927]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-00.19.15:566][927]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2021.05.27-02.19.15
+[2021.05.27-00.19.15:566][927]LogWorld: Bringing up level for play took: 0.008239
+[2021.05.27-00.19.15:566][927]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.05.27-00.19.15:570][927]PIE: El servidor ha iniciado la sesión
+[2021.05.27-00.19.15:571][927]PIE: Play in editor total start time 0,106 seconds.
+[2021.05.27-00.19.17:813][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.19.17:813][148]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Blockout
+[2021.05.27-00.19.17:814][148]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-00.19.17:815][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.19.17:825][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-00.19.17:828][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-00.19.17:832][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.27-00.19.17:833][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.19.17:834][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-00.19.17:847][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-00.19.17:851][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.27-00.19.17:930][150]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.05.27-00.20.14:182][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.27-00.20.14:186][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.05.27-00.20.14:394][808]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout514BD391405546DA5899BBA2806A8EF7.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout.umap'
+[2021.05.27-00.20.14:404][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Blockout_BuiltData" FILE="M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset" SILENT=true
+[2021.05.27-00.20.18:894][808]LogSavePackage: Moving 'M:/Dev/3DenviromentProjectCITM/blockout/Saved/Blockout_BuiltDataC21BB23449F70ACE365FBA91C13D24AB.tmp' to 'M:/Dev/3DenviromentProjectCITM/blockout/Content/scenes/Blockout_BuiltData.uasset'
+[2021.05.27-00.20.19:040][808]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.27-00.20.19:040][808]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Blockout_BuiltData.Blockout_BuiltData
+[2021.05.27-00.20.19:040][808]LogContentValidation: Display: Validating World /Game/scenes/Blockout.Blockout
